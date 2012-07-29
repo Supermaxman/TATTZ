@@ -1,0 +1,10 @@
+name: TATTZ
+
+main: me.supermaxman.tattz.TATTZ
+
+version: 1.0
+
+description: Thread All The ThingZ
+
+commands:
+
